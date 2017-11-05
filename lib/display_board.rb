@@ -1,4 +1,6 @@
 def display_board
-  phrase = "Tic Tac Toe"
-  prints phrase
+  puts "A Tic Tac Toe Board"
 end
+display_board
+
+
